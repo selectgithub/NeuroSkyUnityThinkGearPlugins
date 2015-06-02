@@ -16,6 +16,7 @@ Change Log:
 
 
 Instructions For iOS:
+--------------------------------------
 
 Run the Demo:
 
@@ -95,7 +96,7 @@ Run your own project:
 
 
 Instructions For Android:
-
+--------------------------------------
 
 
 Run the Demo:
@@ -139,8 +140,10 @@ Run your own project:
 5.Call disconnect() function of TGCConnectionController to disconnect
 
 
-Note:Before building,you must fill Bundle Identifier in Other Settings with "com.yourcompany.yourappname",
-and must modify Plugins/Android/AndroidManifest.xml,like package="com.yourcompany.yourappname".
+Note:
 --------------------------------------
+Before building,you must fill Bundle Identifier in Other Settings with "com.yourcompany.yourappname",
+and must modify Plugins/Android/AndroidManifest.xml,like package="com.yourcompany.yourappname".
+
 Any question/issues,contact cwang@neurosky.com
 

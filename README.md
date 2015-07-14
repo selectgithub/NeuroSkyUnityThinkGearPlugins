@@ -1,18 +1,9 @@
 # NeuroSkyUnityThinkGearPlugins
 A plugins for Unity to create Android and iOS app and communicate with NeuroSky MindWave Device
 
+The folder "UnityThinkGear2User4Android" is the Eclipse project that generated "UnityThinkGear.jar".
 
 NeuroSkyUnityThinkGear For iOS & Android Version 1.1.2
-
-Author:Chris
-
-Date:2015.6.2
-
-Change Log:
-
-1)Updated iOS SDK to fix no PoorSignal issue on iOS
-
-2)Updated UnityThinkGear.jar to fix no RawData and Blink issues on Android 
 
 
 Instructions For iOS:

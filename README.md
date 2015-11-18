@@ -136,5 +136,5 @@ Note:
 Before building,you must fill Bundle Identifier in Other Settings with "com.yourcompany.yourappname",
 and must modify Plugins/Android/AndroidManifest.xml,like package="com.yourcompany.yourappname".
 
-Any question/issues,contact cwang@neurosky.com
+Any question/issues,contact androidunity@gmail.com
 

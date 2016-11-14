@@ -1,3 +1,9 @@
+#This project will not be updated, please go to https://github.com/selectgithub/NeuroSkyThinkGearBLE
+#这个工程不会被更新了，请到 https://github.com/selectgithub/NeuroSkyThinkGearBLE
+
+
+
+
 # NeuroSkyUnityThinkGearPlugins
 A plugins for Unity to create Android and iOS app and communicate with NeuroSky MindWave Device
 
